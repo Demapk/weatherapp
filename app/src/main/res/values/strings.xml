@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_list">Города</string>
+    <string name="title_myloc">Мое местоположение</string>
+    <string name="title_search">Поиск</string>
+    <string name="hint_search_city">Enter city name</string>
+
+    <string name="text_temperature">%1$s℃</string>
+    <string name="text_location">%1$s, %2$s</string>
+    <string name="text_temperatures">от %1$s℃ до %2$s℃</string>
+</resources>
